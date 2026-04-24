@@ -1,0 +1,2014 @@
+📊 REPORTE DE SCORING - PENALIZACIÓN AGRESIVA
+============================================================
+UMBRAL MÍNIMO DE CONFIANZA: 100 clientes
+PENALIZACIÓN: (clientes/umbral)² para muestras pequeñas
+============================================================
+
+
+📌 Accesorios
+   Clientes: 40
+   Penalización aplicada: 0.160
+   Performance (penalizada): 0.054
+   Confidence: 0.008
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Accesorios Deportivos
+   Clientes: 12
+   Penalización aplicada: 0.014
+   Performance (penalizada): 0.005
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Accesorios Electrónicos
+   Clientes: 297
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.615
+   Confidence: 0.063
+   → FINAL SCORE: 0.039
+----------------------------------------
+
+📌 Accesorios de Cómputo
+   Clientes: 2,220
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.570
+   Confidence: 0.471
+   → FINAL SCORE: 0.268
+----------------------------------------
+
+📌 Accesorios de Herramientas
+   Clientes: 70
+   Penalización aplicada: 0.490
+   Performance (penalizada): 0.185
+   Confidence: 0.015
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Accesorios para Audífonos
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.000
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Accesorios para Auto
+   Clientes: 134
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.352
+   Confidence: 0.028
+   → FINAL SCORE: 0.010
+----------------------------------------
+
+📌 Accesorios para Celulares
+   Clientes: 984
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.581
+   Confidence: 0.209
+   → FINAL SCORE: 0.121
+----------------------------------------
+
+📌 Accesorios para Cámaras y Fotografía
+   Clientes: 56
+   Penalización aplicada: 0.314
+   Performance (penalizada): 0.225
+   Confidence: 0.012
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Accesorios para Impresora
+   Clientes: 46
+   Penalización aplicada: 0.212
+   Performance (penalizada): 0.055
+   Confidence: 0.010
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Accesorios para Instrumentos
+   Clientes: 27
+   Penalización aplicada: 0.073
+   Performance (penalizada): 0.036
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Accesorios para Moto
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Accesorios para Producción Musical
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Accesorios para Televisión y Video
+   Clientes: 208
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.542
+   Confidence: 0.044
+   → FINAL SCORE: 0.024
+----------------------------------------
+
+📌 Accesorios para Videojuegos
+   Clientes: 358
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.576
+   Confidence: 0.076
+   → FINAL SCORE: 0.044
+----------------------------------------
+
+📌 Accesorios y Cuidado de Mascotas
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Accesorios y Herramientas
+   Clientes: 15
+   Penalización aplicada: 0.022
+   Performance (penalizada): 0.012
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Aceites y Fluidos
+   Clientes: 15
+   Penalización aplicada: 0.022
+   Performance (penalizada): 0.009
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Actividades al Aire Libre
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Acuáticos
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Aire Libre y Deportes
+   Clientes: 21
+   Penalización aplicada: 0.044
+   Performance (penalizada): 0.037
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Aire acondicionado
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Alimentación de Bebé
+   Clientes: 21
+   Penalización aplicada: 0.044
+   Performance (penalizada): 0.036
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Almacenamiento
+   Clientes: 587
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.730
+   Confidence: 0.124
+   → FINAL SCORE: 0.091
+----------------------------------------
+
+📌 Amplificadores
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Antenas
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Aperitivos y Digestivos
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.002
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Arcilla y Plastilina
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Arroceras
+   Clientes: 55
+   Penalización aplicada: 0.302
+   Performance (penalizada): 0.181
+   Confidence: 0.011
+   → FINAL SCORE: 0.002
+----------------------------------------
+
+📌 Arroz y Pasta
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Arte y Manualidades
+   Clientes: 40
+   Penalización aplicada: 0.160
+   Performance (penalizada): 0.048
+   Confidence: 0.008
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Artículos de Oficina
+   Clientes: 114
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.353
+   Confidence: 0.024
+   → FINAL SCORE: 0.009
+----------------------------------------
+
+📌 Aspiradoras y Cuidado del Suelo
+   Clientes: 85
+   Penalización aplicada: 0.723
+   Performance (penalizada): 0.191
+   Confidence: 0.018
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Audio y Equipos de Sonido
+   Clientes: 3,618
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.453
+   Confidence: 0.768
+   → FINAL SCORE: 0.347
+----------------------------------------
+
+📌 Audífonos Alámbricos
+   Clientes: 192
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.470
+   Confidence: 0.041
+   → FINAL SCORE: 0.019
+----------------------------------------
+
+📌 Audífonos Con Micrófono
+   Clientes: 54
+   Penalización aplicada: 0.292
+   Performance (penalizada): 0.139
+   Confidence: 0.011
+   → FINAL SCORE: 0.002
+----------------------------------------
+
+📌 Audífonos Deportivos
+   Clientes: 139
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.467
+   Confidence: 0.029
+   → FINAL SCORE: 0.014
+----------------------------------------
+
+📌 Audífonos In Ear
+   Clientes: 22
+   Penalización aplicada: 0.048
+   Performance (penalizada): 0.036
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Audífonos Inalámbricos
+   Clientes: 3,112
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.424
+   Confidence: 0.660
+   → FINAL SCORE: 0.280
+----------------------------------------
+
+📌 Audífonos Over Ear
+   Clientes: 18
+   Penalización aplicada: 0.032
+   Performance (penalizada): 0.015
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Audífonos con Cancelación de Ruido
+   Clientes: 1,078
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.410
+   Confidence: 0.229
+   → FINAL SCORE: 0.094
+----------------------------------------
+
+📌 Autoayuda
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Aves
+   Clientes: 10
+   Penalización aplicada: 0.010
+   Performance (penalizada): 0.008
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Bar
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Barras de Sonido
+   Clientes: 98
+   Penalización aplicada: 0.960
+   Performance (penalizada): 0.462
+   Confidence: 0.021
+   → FINAL SCORE: 0.009
+----------------------------------------
+
+📌 Baseball
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Basketball
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Batidoras y Accesorios
+   Clientes: 61
+   Penalización aplicada: 0.372
+   Performance (penalizada): 0.210
+   Confidence: 0.013
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Baño
+   Clientes: 25
+   Penalización aplicada: 0.062
+   Performance (penalizada): 0.039
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Baño de Bebé
+   Clientes: 7
+   Penalización aplicada: 0.005
+   Performance (penalizada): 0.005
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Baño e Higiene Personal
+   Clientes: 53
+   Penalización aplicada: 0.281
+   Performance (penalizada): 0.206
+   Confidence: 0.011
+   → FINAL SCORE: 0.002
+----------------------------------------
+
+📌 Bebidas
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Binoculares
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Biografías y Memorias
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Blancos para el Hogar
+   Clientes: 13
+   Penalización aplicada: 0.017
+   Performance (penalizada): 0.003
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Bolsas Para Empaque
+   Clientes: 18
+   Penalización aplicada: 0.032
+   Performance (penalizada): 0.005
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Boquitas
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Box
+   Clientes: 10
+   Penalización aplicada: 0.010
+   Performance (penalizada): 0.005
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cafeteras y Moledores
+   Clientes: 233
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.494
+   Confidence: 0.049
+   → FINAL SCORE: 0.024
+----------------------------------------
+
+📌 Café y Té
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Calculadoras
+   Clientes: 17
+   Penalización aplicada: 0.029
+   Performance (penalizada): 0.015
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Calendarios, Agendas y Organizadores Personales
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cambiadores de Pañales y Contenedores
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cambio de Pañales
+   Clientes: 89
+   Penalización aplicada: 0.792
+   Performance (penalizada): 0.637
+   Confidence: 0.019
+   → FINAL SCORE: 0.012
+----------------------------------------
+
+📌 Camping
+   Clientes: 44
+   Penalización aplicada: 0.194
+   Performance (penalizada): 0.048
+   Confidence: 0.009
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cavas de Vino
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Celulares y Smartphones Desbloqueados
+   Clientes: 1,190
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.460
+   Confidence: 0.252
+   → FINAL SCORE: 0.116
+----------------------------------------
+
+📌 Cervezas
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Chupetas y Mordederas
+   Clientes: 14
+   Penalización aplicada: 0.020
+   Performance (penalizada): 0.013
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Chupones y Accesorios
+   Clientes: 78
+   Penalización aplicada: 0.608
+   Performance (penalizada): 0.394
+   Confidence: 0.016
+   → FINAL SCORE: 0.006
+----------------------------------------
+
+📌 Ciclismo
+   Clientes: 60
+   Penalización aplicada: 0.360
+   Performance (penalizada): 0.160
+   Confidence: 0.013
+   → FINAL SCORE: 0.002
+----------------------------------------
+
+📌 Ciencia Ficción y Fantasía
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Climatización y Calefacción
+   Clientes: 77
+   Penalización aplicada: 0.593
+   Performance (penalizada): 0.232
+   Confidence: 0.016
+   → FINAL SCORE: 0.004
+----------------------------------------
+
+📌 Coches y Sillas de Bebé
+   Clientes: 10
+   Penalización aplicada: 0.010
+   Performance (penalizada): 0.003
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cocina
+   Clientes: 1,075
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.448
+   Confidence: 0.228
+   → FINAL SCORE: 0.102
+----------------------------------------
+
+📌 Cocina y comedor
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cocinas
+   Clientes: 12
+   Penalización aplicada: 0.014
+   Performance (penalizada): 0.008
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Componentes
+   Clientes: 100
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.538
+   Confidence: 0.021
+   → FINAL SCORE: 0.011
+----------------------------------------
+
+📌 Componentes Gaming
+   Clientes: 7
+   Penalización aplicada: 0.005
+   Performance (penalizada): 0.002
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Computadoras de Escritorio
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Computadoras y Tecnología
+   Clientes: 56
+   Penalización aplicada: 0.314
+   Performance (penalizada): 0.112
+   Confidence: 0.012
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Congeladores
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cosméticos y Maquillaje
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.003
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Crayones
+   Clientes: 15
+   Penalización aplicada: 0.022
+   Performance (penalizada): 0.018
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cuarto del Bebé
+   Clientes: 19
+   Penalización aplicada: 0.036
+   Performance (penalizada): 0.007
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cuidado de la Piel
+   Clientes: 32
+   Penalización aplicada: 0.102
+   Performance (penalizada): 0.070
+   Confidence: 0.007
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Cuidado de la Salud
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.000
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cuidado del Cabello
+   Clientes: 708
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.386
+   Confidence: 0.150
+   → FINAL SCORE: 0.058
+----------------------------------------
+
+📌 Cuidado del Hogar y Limpieza
+   Clientes: 116
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.438
+   Confidence: 0.024
+   → FINAL SCORE: 0.011
+----------------------------------------
+
+📌 Cuidado visual
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cuidado y Mantenimiento de Auto y Moto
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.002
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cámaras Digitales
+   Clientes: 237
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.466
+   Confidence: 0.050
+   → FINAL SCORE: 0.023
+----------------------------------------
+
+📌 Cámaras de Acción y Accesorios
+   Clientes: 12
+   Penalización aplicada: 0.014
+   Performance (penalizada): 0.007
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Cámaras de Vigilancia
+   Clientes: 585
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.704
+   Confidence: 0.124
+   → FINAL SCORE: 0.087
+----------------------------------------
+
+📌 Decoración
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Decoración Navideña
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Decoración del Hogar
+   Clientes: 37
+   Penalización aplicada: 0.137
+   Performance (penalizada): 0.046
+   Confidence: 0.008
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Decorativos
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.003
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Despensa
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Destilados
+   Clientes: 12
+   Penalización aplicada: 0.014
+   Performance (penalizada): 0.006
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Disfraces
+   Clientes: 7
+   Penalización aplicada: 0.005
+   Performance (penalizada): 0.004
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Dispositivos de Streaming
+   Clientes: 207
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.520
+   Confidence: 0.044
+   → FINAL SCORE: 0.023
+----------------------------------------
+
+📌 Dispositivos para Redes
+   Clientes: 363
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.559
+   Confidence: 0.077
+   → FINAL SCORE: 0.043
+----------------------------------------
+
+📌 Drones y Accesorios
+   Clientes: 12
+   Penalización aplicada: 0.014
+   Performance (penalizada): 0.002
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Electricidad
+   Clientes: 27
+   Penalización aplicada: 0.073
+   Performance (penalizada): 0.061
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Electrodomésticos Especializados y Utensilios Eléctricos
+   Clientes: 48
+   Penalización aplicada: 0.230
+   Performance (penalizada): 0.068
+   Confidence: 0.010
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Electrodomésticos para Cuidado de la Ropa
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Electrónica
+   Clientes: 82
+   Penalización aplicada: 0.672
+   Performance (penalizada): 0.144
+   Confidence: 0.017
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Electrónicos de Oficina
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Equipo y Suministros Médicos
+   Clientes: 19
+   Penalización aplicada: 0.036
+   Performance (penalizada): 0.010
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Escaneo
+   Clientes: 11
+   Penalización aplicada: 0.012
+   Performance (penalizada): 0.003
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Espumantes
+   Clientes: 8
+   Penalización aplicada: 0.006
+   Performance (penalizada): 0.005
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Estanterías
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.000
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Estuches
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Extensiones
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.001
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Extractores
+   Clientes: 15
+   Penalización aplicada: 0.022
+   Performance (penalizada): 0.009
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Ferretería
+   Clientes: 255
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.536
+   Confidence: 0.054
+   → FINAL SCORE: 0.029
+----------------------------------------
+
+📌 Figuras de Acción
+   Clientes: 87
+   Penalización aplicada: 0.757
+   Performance (penalizada): 0.522
+   Confidence: 0.018
+   → FINAL SCORE: 0.010
+----------------------------------------
+
+📌 Filosofía
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Fitness
+   Clientes: 153
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.366
+   Confidence: 0.032
+   → FINAL SCORE: 0.012
+----------------------------------------
+
+📌 Freidoras
+   Clientes: 65
+   Penalización aplicada: 0.422
+   Performance (penalizada): 0.232
+   Confidence: 0.014
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Fútbol
+   Clientes: 255
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.446
+   Confidence: 0.054
+   → FINAL SCORE: 0.024
+----------------------------------------
+
+📌 Gastronomía
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Gatos
+   Clientes: 21
+   Penalización aplicada: 0.044
+   Performance (penalizada): 0.020
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Ginebra
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Grabación y Computadoras
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Guitarras y Accesorios
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.000
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Headset Gaming
+   Clientes: 55
+   Penalización aplicada: 0.302
+   Performance (penalizada): 0.128
+   Confidence: 0.011
+   → FINAL SCORE: 0.002
+----------------------------------------
+
+📌 Herramientas Eléctricas
+   Clientes: 240
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.306
+   Confidence: 0.051
+   → FINAL SCORE: 0.015
+----------------------------------------
+
+📌 Herramientas Manuales
+   Clientes: 25
+   Penalización aplicada: 0.062
+   Performance (penalizada): 0.049
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Herramientas para Autos
+   Clientes: 45
+   Penalización aplicada: 0.203
+   Performance (penalizada): 0.035
+   Confidence: 0.009
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Hombres
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Hornos Empotrables
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Hornos de Microondas
+   Clientes: 57
+   Penalización aplicada: 0.325
+   Performance (penalizada): 0.185
+   Confidence: 0.012
+   → FINAL SCORE: 0.002
+----------------------------------------
+
+📌 Humor y Entretenimiento
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Iluminación
+   Clientes: 13
+   Penalización aplicada: 0.017
+   Performance (penalizada): 0.002
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Iluminación para el Hogar y Cocina
+   Clientes: 34
+   Penalización aplicada: 0.116
+   Performance (penalizada): 0.068
+   Confidence: 0.007
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Impresoras
+   Clientes: 189
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.516
+   Confidence: 0.040
+   → FINAL SCORE: 0.021
+----------------------------------------
+
+📌 Impresoras 3D
+   Clientes: 7
+   Penalización aplicada: 0.005
+   Performance (penalizada): 0.002
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Impresoras para el Hogar
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Impresoras para el Trabajo
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Infantil y Niños
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Instrumentos de Cuerda
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Instrumentos de Viento
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Instrumentos de percusión
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Joyería
+   Clientes: 28
+   Penalización aplicada: 0.078
+   Performance (penalizada): 0.020
+   Confidence: 0.006
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Juegos de Construcción
+   Clientes: 8
+   Penalización aplicada: 0.006
+   Performance (penalizada): 0.002
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Juegos de Mesa
+   Clientes: 153
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.691
+   Confidence: 0.032
+   → FINAL SCORE: 0.022
+----------------------------------------
+
+📌 Juguetes Creativos
+   Clientes: 32
+   Penalización aplicada: 0.102
+   Performance (penalizada): 0.078
+   Confidence: 0.007
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Juguetes Educativos
+   Clientes: 33
+   Penalización aplicada: 0.109
+   Performance (penalizada): 0.099
+   Confidence: 0.007
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Juguetes Electrónicos
+   Clientes: 20
+   Penalización aplicada: 0.040
+   Performance (penalizada): 0.025
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Juguetes para Bebés
+   Clientes: 15
+   Penalización aplicada: 0.022
+   Performance (penalizada): 0.019
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Juguetes para Niñas
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Juguetes para Niños
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.002
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Lactancia
+   Clientes: 25
+   Penalización aplicada: 0.062
+   Performance (penalizada): 0.042
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Lanzadores
+   Clientes: 8
+   Penalización aplicada: 0.006
+   Performance (penalizada): 0.006
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Laptops
+   Clientes: 633
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.410
+   Confidence: 0.134
+   → FINAL SCORE: 0.055
+----------------------------------------
+
+📌 Laptops Gaming
+   Clientes: 38
+   Penalización aplicada: 0.144
+   Performance (penalizada): 0.076
+   Confidence: 0.008
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Lavadoras y Secadoras
+   Clientes: 8
+   Penalización aplicada: 0.006
+   Performance (penalizada): 0.003
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Lavavajillas
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Lentes de Realidad Virtual
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Libros en Inglés
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Libros para Colorear
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Licuadoras
+   Clientes: 94
+   Penalización aplicada: 0.884
+   Performance (penalizada): 0.566
+   Confidence: 0.020
+   → FINAL SCORE: 0.011
+----------------------------------------
+
+📌 Literatura Infantil
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Literatura y Ficción
+   Clientes: 7
+   Penalización aplicada: 0.005
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Manga y Novelas Gráficas
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.001
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Manicure y Pedicure
+   Clientes: 8
+   Penalización aplicada: 0.006
+   Performance (penalizada): 0.002
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Marcadores
+   Clientes: 39
+   Penalización aplicada: 0.152
+   Performance (penalizada): 0.081
+   Confidence: 0.008
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Material Escolar y Educativo
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Medición e Inspección
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.000
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Micrófonos
+   Clientes: 19
+   Penalización aplicada: 0.036
+   Performance (penalizada): 0.008
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Mobiliario de oficina
+   Clientes: 41
+   Penalización aplicada: 0.168
+   Performance (penalizada): 0.057
+   Confidence: 0.009
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Mochilas y Bolsas
+   Clientes: 430
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.433
+   Confidence: 0.091
+   → FINAL SCORE: 0.039
+----------------------------------------
+
+📌 Monitores
+   Clientes: 266
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.549
+   Confidence: 0.056
+   → FINAL SCORE: 0.031
+----------------------------------------
+
+📌 Monitores Gaming
+   Clientes: 18
+   Penalización aplicada: 0.032
+   Performance (penalizada): 0.010
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Motocicletas, Accesorios y Piezas
+   Clientes: 20
+   Penalización aplicada: 0.040
+   Performance (penalizada): 0.006
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Muebles
+   Clientes: 113
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.403
+   Confidence: 0.024
+   → FINAL SCORE: 0.010
+----------------------------------------
+
+📌 Mujeres
+   Clientes: 11
+   Penalización aplicada: 0.012
+   Performance (penalizada): 0.004
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Muñecas
+   Clientes: 56
+   Penalización aplicada: 0.314
+   Performance (penalizada): 0.219
+   Confidence: 0.012
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Máquinas de Coser
+   Clientes: 23
+   Penalización aplicada: 0.053
+   Performance (penalizada): 0.015
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Natación
+   Clientes: 15
+   Penalización aplicada: 0.022
+   Performance (penalizada): 0.017
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Negocios e Inversiones
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Nintendo
+   Clientes: 884
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.462
+   Confidence: 0.187
+   → FINAL SCORE: 0.086
+----------------------------------------
+
+📌 Niños
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Ollas de Cocción Lenta y Multiusos
+   Clientes: 112
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.520
+   Confidence: 0.024
+   → FINAL SCORE: 0.012
+----------------------------------------
+
+📌 Otras mascotas
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Otros Deportes
+   Clientes: 56
+   Penalización aplicada: 0.314
+   Performance (penalizada): 0.065
+   Confidence: 0.012
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Pantallas
+   Clientes: 144
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.547
+   Confidence: 0.030
+   → FINAL SCORE: 0.017
+----------------------------------------
+
+📌 Parrillas
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Partes y Repuestos para Automóvil
+   Clientes: 40
+   Penalización aplicada: 0.160
+   Performance (penalizada): 0.063
+   Confidence: 0.008
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 Peces
+   Clientes: 10
+   Penalización aplicada: 0.010
+   Performance (penalizada): 0.005
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Peluches
+   Clientes: 8
+   Penalización aplicada: 0.006
+   Performance (penalizada): 0.003
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Perfumes y Fragancias
+   Clientes: 8
+   Penalización aplicada: 0.006
+   Performance (penalizada): 0.005
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Periféricos
+   Clientes: 59
+   Penalización aplicada: 0.348
+   Performance (penalizada): 0.214
+   Confidence: 0.012
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Perros
+   Clientes: 106
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.434
+   Confidence: 0.022
+   → FINAL SCORE: 0.010
+----------------------------------------
+
+📌 Pianos y Teclados
+   Clientes: 16
+   Penalización aplicada: 0.026
+   Performance (penalizada): 0.005
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Piezas y Accesorios
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.001
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Ping Pong
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Pinturas y Accesorios
+   Clientes: 17
+   Penalización aplicada: 0.029
+   Performance (penalizada): 0.003
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Piscinas y Accesorios
+   Clientes: 12
+   Penalización aplicada: 0.014
+   Performance (penalizada): 0.010
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Planchas y parrillas eléctricas
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Planchas, Centros de Planchado y Accesorios
+   Clientes: 39
+   Penalización aplicada: 0.152
+   Performance (penalizada): 0.082
+   Confidence: 0.008
+   → FINAL SCORE: 0.001
+----------------------------------------
+
+📌 PlayStation
+   Clientes: 1,551
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.597
+   Confidence: 0.329
+   → FINAL SCORE: 0.197
+----------------------------------------
+
+📌 Procesadores de Alimentos
+   Clientes: 18
+   Penalización aplicada: 0.032
+   Performance (penalizada): 0.022
+   Confidence: 0.004
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Productos de Papel para Oficina
+   Clientes: 34
+   Penalización aplicada: 0.116
+   Performance (penalizada): 0.046
+   Confidence: 0.007
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Productos profesionales
+   Clientes: 110
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.439
+   Confidence: 0.023
+   → FINAL SCORE: 0.010
+----------------------------------------
+
+📌 Protección y Seguridad
+   Clientes: 100
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.411
+   Confidence: 0.021
+   → FINAL SCORE: 0.009
+----------------------------------------
+
+📌 Proyectores
+   Clientes: 61
+   Penalización aplicada: 0.372
+   Performance (penalizada): 0.135
+   Confidence: 0.013
+   → FINAL SCORE: 0.002
+----------------------------------------
+
+📌 Proyectores de Diapositivas
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Proyectores de Video
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Rasurado y Depilación
+   Clientes: 273
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.486
+   Confidence: 0.058
+   → FINAL SCORE: 0.028
+----------------------------------------
+
+📌 Refrigeradores
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.001
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Refrigeradores Estándar
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Religión y Espiritualidad
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Relojes
+   Clientes: 76
+   Penalización aplicada: 0.578
+   Performance (penalizada): 0.190
+   Confidence: 0.016
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Relojes Inteligentes
+   Clientes: 3,249
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.494
+   Confidence: 0.689
+   → FINAL SCORE: 0.340
+----------------------------------------
+
+📌 Relojes y Alarmas
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Reptiles y Anfibios
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Roedores
+   Clientes: 7
+   Penalización aplicada: 0.005
+   Performance (penalizada): 0.004
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Romance
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Rompecabezas
+   Clientes: 10
+   Penalización aplicada: 0.010
+   Performance (penalizada): 0.009
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Ron
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.002
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Ropa
+   Clientes: 5
+   Penalización aplicada: 0.003
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Ropa de Bebé
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.001
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Salud e Higiene del Bebé
+   Clientes: 15
+   Penalización aplicada: 0.022
+   Performance (penalizada): 0.020
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Salud, Fitness y Dieta
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.000
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Sartenes Eléctricos
+   Clientes: 9
+   Penalización aplicada: 0.008
+   Performance (penalizada): 0.004
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Sillas
+   Clientes: 13
+   Penalización aplicada: 0.017
+   Performance (penalizada): 0.004
+   Confidence: 0.003
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Sillas Gaming
+   Clientes: 27
+   Penalización aplicada: 0.073
+   Performance (penalizada): 0.046
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Smart Home
+   Clientes: 4,713
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.574
+   Confidence: 1.000
+   → FINAL SCORE: 0.574
+----------------------------------------
+
+📌 Smarthome
+   Clientes: 3
+   Penalización aplicada: 0.001
+   Performance (penalizada): 0.001
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Tablets
+   Clientes: 128
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.504
+   Confidence: 0.027
+   → FINAL SCORE: 0.014
+----------------------------------------
+
+📌 Tablets y accesorios
+   Clientes: 860
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.445
+   Confidence: 0.182
+   → FINAL SCORE: 0.081
+----------------------------------------
+
+📌 Telescopios
+   Clientes: 34
+   Penalización aplicada: 0.116
+   Performance (penalizada): 0.028
+   Confidence: 0.007
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Tenis
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Tequila
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Teteras y Hervidores
+   Clientes: 26
+   Penalización aplicada: 0.068
+   Performance (penalizada): 0.043
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Tinta e Insumos para Impresión
+   Clientes: 975
+   Penalización aplicada: 1.000
+   Performance (penalizada): 0.654
+   Confidence: 0.207
+   → FINAL SCORE: 0.135
+----------------------------------------
+
+📌 Tocadiscos
+   Clientes: 24
+   Penalización aplicada: 0.058
+   Performance (penalizada): 0.004
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Utensilios de Belleza
+   Clientes: 6
+   Penalización aplicada: 0.004
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Vasos, Botellas y Termos
+   Clientes: 11
+   Penalización aplicada: 0.012
+   Performance (penalizada): 0.005
+   Confidence: 0.002
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Vehículos de Juguete
+   Clientes: 53
+   Penalización aplicada: 0.281
+   Performance (penalizada): 0.245
+   Confidence: 0.011
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Videocámaras
+   Clientes: 1
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Vinos
+   Clientes: 26
+   Penalización aplicada: 0.068
+   Performance (penalizada): 0.047
+   Confidence: 0.005
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Vitaminas y Suplementos
+   Clientes: 77
+   Penalización aplicada: 0.593
+   Performance (penalizada): 0.158
+   Confidence: 0.016
+   → FINAL SCORE: 0.003
+----------------------------------------
+
+📌 Vodka
+   Clientes: 2
+   Penalización aplicada: 0.000
+   Performance (penalizada): 0.000
+   Confidence: 0.000
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 Waffleras, Sandwicheras y Tostadores
+   Clientes: 94
+   Penalización aplicada: 0.884
+   Performance (penalizada): 0.406
+   Confidence: 0.020
+   → FINAL SCORE: 0.008
+----------------------------------------
+
+📌 Whisky
+   Clientes: 4
+   Penalización aplicada: 0.002
+   Performance (penalizada): 0.001
+   Confidence: 0.001
+   → FINAL SCORE: 0.000
+----------------------------------------
+
+📌 XBOX
+   Clientes: 90
+   Penalización aplicada: 0.810
+   Performance (penalizada): 0.340
+   Confidence: 0.019
+   → FINAL SCORE: 0.006
+----------------------------------------
+
+📌 Zapatos
+   Clientes: 33
+   Penalización aplicada: 0.109
+   Performance (penalizada): 0.048
+   Confidence: 0.007
+   → FINAL SCORE: 0.000
+----------------------------------------
